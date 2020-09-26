@@ -13,3 +13,9 @@
 [youtube]: https://www.youtube.com/channel/UCk8n3-SC7fYYpLQkT0eYicA
 [instagram]: https://www.instagram.com/sinclair_hudson/
 [linkedin]: https://www.linkedin.com/in/sinclairhudson/
+
+### My Languages and Tools:
+
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
